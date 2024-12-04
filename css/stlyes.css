@@ -157,7 +157,7 @@ a{
 }
 /* -------------------------------------------media queries*/
 @media screen and (max-width: 950px){
-    #homePageImg{
+    #homePageImg img{
         display: none;
     }
     #s-contentAndImg{
